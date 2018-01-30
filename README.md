@@ -14,3 +14,5 @@
 division on two numbers.
 
 ### **Output**
+### GET Request testing
+
