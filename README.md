@@ -19,7 +19,7 @@ Implement a Restful Web API that can perform addition, subtraction, multiplicati
 
 ![Image of GET Request Details for Coins](https://github.com/nishantrathi/Restful-API-for-Coin-Flipping-and-Arithmetic-Operation-in-Java/blob/master/WebContent/images/get.PNG)
 
-### POST Request testing for Coins Flipping and Arithmetic Operation
+### POST Request testing for Coins Flipping and Arithmetic Operation using CURL command
 
 ![Image of GET Request Details for Coins](https://github.com/nishantrathi/Restful-API-for-Coin-Flipping-and-Arithmetic-Operation-in-Java/blob/master/WebContent/images/madd.PNG)
 
