@@ -16,3 +16,4 @@ division on two numbers.
 ### **Output**
 ### GET Request testing
 
+![Image of GET Request for Coins and Arithmetic Operation] (/A1/WebContent/images/getall.PNG)
