@@ -16,4 +16,4 @@ division on two numbers.
 ### **Output**
 ### GET Request testing
 
-![Image of GET Request for Coins and Arithmetic Operation] (https://github.com/nishantrathi/Restful-API-for-Coin-Flipping-and-Arithmetic-Operation-in-Java/WebContent/images/getall.PNG)
+![Image of GET Request for Coins and Arithmetic Operation](https://github.com/nishantrathi/Restful-API-for-Coin-Flipping-and-Arithmetic-Operation-in-Java/WebContent/images/getall.PNG)
